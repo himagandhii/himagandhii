@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Hima's+GitHub+Profile)](https://git.io/typing-svg)
 # GitHub README Chess Tournament
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
@@ -70,7 +71,7 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Hima's+GitHub+Profile)](https://git.io/typing-svg)
+
 # Hi! there 👋
 
 <!--
