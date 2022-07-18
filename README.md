@@ -66,3 +66,57 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 ---
 
 Do you want to make your own? Check out [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)!
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=D73A7B&size=29&multiline=true&width=700&lines=Welcome+To+Hima's+GitHub+Profile)](https://git.io/typing-svg)
+# Hi! there 👋
+
+<!--
+**himagandhii/himagandhii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on... 
+- 🌱 I’m currently learning: Java
+- 👯 I’m looking to collaborate on: P
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+I'm Hima Gandhi.
+
+ <i>Currently:</i> 3nd Year Information Technology Student at Guru Nanak Dev Engineering College. 
+-->
+
+## Hi there I'm Hima Gandhi.
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=himagandhii.himagandhii)](https://github.com/himagandhii) [![GitHub followers](https://img.shields.io/github/followers/himagandhii.svg?style=social&label=Follow)](https://github.com/himagandhii?tab=followers)<br>
+- 🔭 I’m currently: 3nd Year Information Technology Student at Guru Nanak Dev Engineering College.
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on Machine learning projects
+- 🤔 I’m looking for help with Python
+- 💬 Ask me about C,C++,Html,Css,Javascript,Dbms,Os
+- 📫 How to reach me https://github.com/himagandhii
+- ⚡ Fun fact: I love chess and music
+
+
+
+<h2>👀 Stats</h2>
+
+  <p align="center">
+  <b><em>Overall GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himagandhii" alt="GitHub Stats" /> <br/><br/>
+    <img src="https://github-readme-stats.vercel.app/api?username=himagandhii&show_icons=true&theme=gotham" alt="himagandhii" /><br><br>
+  </p>
+
+<h2>📫 How to reach me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"</h2>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/hima-gandhi-006394208/"><img src="https://media.giphy.com/media/db32HzmDbjp8xWEcO0/giphy.gif" width="40"></a>
+<a href="mailto:himagandhii11@gmail.com"><img src="https://media.giphy.com/media/KyHsvh3wJFLUXwlxuR/giphy.gif" width="40"></a>
+<a href="https://www.instagram.com/hima__1801/"><img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" width="35"></a>
+<!--<a href="https://www.twitter.com/hima/"><img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="35"></a> 
+<a  href=""><img src="https://media.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif" width="40"></a> -->
+<a href="https://github.com/himagandhii"><img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35"></a>
+</p>
+
