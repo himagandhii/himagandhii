@@ -98,7 +98,6 @@ I'm Hima Gandhi.
 
 ## Hi there I'm Hima Gandhi.
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=himagandhii.himagandhii)](https://github.com/himagandhii) [![GitHub followers](https://img.shields.io/github/followers/himagandhii.svg?style=social&label=Follow)](https://github.com/himagandhii?tab=followers)<br>
-- 🔭 I’m currently: 4nd Year Information Technology Student at Guru Nanak Dev Engineering College.
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on Machine learning projects
 - 🤔 I’m looking for help with Python
