@@ -115,14 +115,3 @@ I'm Hima Gandhi.
     <img src="https://github-readme-stats.vercel.app/api?username=himagandhii&show_icons=true&theme=gotham" alt="himagandhii" /><br><br>
   </p>
 
-<h2>📫 How to reach me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"</h2>
-
-<p align="center">
-<a href="https://www.linkedin.com/in/hima-gandhi-006394208/"><img src="https://media.giphy.com/media/db32HzmDbjp8xWEcO0/giphy.gif" width="40"></a>
-<a href="mailto:himagandhii11@gmail.com"><img src="https://media.giphy.com/media/KyHsvh3wJFLUXwlxuR/giphy.gif" width="40"></a>
-<a href="https://www.instagram.com/hima__1801/"><img src="https://media.giphy.com/media/QWpK88H1g9PtmtQly1/giphy.gif" width="35"></a>
-<!--<a href="https://www.twitter.com/hima/"><img src="https://media.giphy.com/media/H508mck9ufO9q6z76O/giphy.gif" width="35"></a> 
-<a  href=""><img src="https://media.giphy.com/media/jU9PVpqUvR0aNc3nvX/giphy.gif" width="40"></a> -->
-<a href="https://github.com/himagandhii"><img src="https://media3.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.webp" width="35"></a>
-</p>
-
